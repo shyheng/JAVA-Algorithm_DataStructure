@@ -1,2 +1,2 @@
-# JAVA-Algorithm_arrangement
-java算法排列
+
+#java数据结构，算法排列
