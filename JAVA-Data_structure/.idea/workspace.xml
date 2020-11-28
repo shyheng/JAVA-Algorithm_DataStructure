@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="3950ab96-7c6a-4f68-9f25-89ca39e92f7e" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,7 +20,7 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="E:/apache-maven-3.6.3" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../apache-maven-3.6.3" />
         <option name="userSettingsFile" value="E:\apache-maven-3.6.3\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
@@ -34,18 +37,38 @@
   <component name="ProjectId" id="1kpV8GfOw5jzepjdc88vt0IkyCy" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
+  <component name="RunManager">
+    <configuration name="QueueTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="QueueTest" />
+      <module name="JAVA-Data_structure" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.QueueTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -57,16 +80,68 @@
       <option name="presentableId" value="Default" />
       <updated>1606397359027</updated>
       <workItem from="1606397363255" duration="73000" />
+      <workItem from="1606451817528" duration="124000" />
+      <workItem from="1606451972142" duration="219000" />
+      <workItem from="1606452552372" duration="19000" />
+      <workItem from="1606452620206" duration="18000" />
+      <workItem from="1606452675611" duration="31000" />
+      <workItem from="1606452783385" duration="13000" />
+      <workItem from="1606452821808" duration="59000" />
+      <workItem from="1606453007542" duration="13000" />
+      <workItem from="1606453429936" duration="78000" />
+      <workItem from="1606453917589" duration="764000" />
+      <workItem from="1606489649132" duration="403000" />
+      <workItem from="1606537443911" duration="4334000" />
+      <workItem from="1606543411796" duration="139000" />
+      <workItem from="1606543569102" duration="181000" />
+      <workItem from="1606543773347" duration="59000" />
+      <workItem from="1606545342587" duration="124000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2361" y="114" key="SettingsEditor" timestamp="1606397382488">
+    <state x="249" y="27" key="#Project_Structure" timestamp="1606543430121">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state x="249" y="27" key="#Project_Structure/0.30.1536.834/1920.0.1920.1080@0.30.1536.834" timestamp="1606543430121" />
+    <state x="725" y="362" key="#com.intellij.ide.actions.DebugLogConfigureAction" timestamp="1606452042246">
+      <screen x="0" y="58" width="1920" height="1022" />
+    </state>
+    <state x="725" y="362" key="#com.intellij.ide.actions.DebugLogConfigureAction/0.58.1920.1022@0.58.1920.1022" timestamp="1606452042246" />
+    <state x="2649" y="244" key="FileChooserDialogImpl" timestamp="1606543744147">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
+    <state x="2649" y="244" key="FileChooserDialogImpl/0.30.1536.834/1920.0.1920.1080@1920.0.1920.1080" timestamp="1606543744147" />
+    <state width="1866" height="255" key="GridCell.Tab.0.bottom" timestamp="1606454686211">
+      <screen x="0" y="58" width="1920" height="1022" />
+    </state>
+    <state width="1866" height="255" key="GridCell.Tab.0.bottom/0.58.1920.1022@0.58.1920.1022" timestamp="1606454686211" />
+    <state width="1866" height="255" key="GridCell.Tab.0.center" timestamp="1606454686211">
+      <screen x="0" y="58" width="1920" height="1022" />
+    </state>
+    <state width="1866" height="255" key="GridCell.Tab.0.center/0.58.1920.1022@0.58.1920.1022" timestamp="1606454686211" />
+    <state width="1866" height="255" key="GridCell.Tab.0.left" timestamp="1606454686211">
+      <screen x="0" y="58" width="1920" height="1022" />
+    </state>
+    <state width="1866" height="255" key="GridCell.Tab.0.left/0.58.1920.1022@0.58.1920.1022" timestamp="1606454686211" />
+    <state width="1866" height="255" key="GridCell.Tab.0.right" timestamp="1606454686211">
+      <screen x="0" y="58" width="1920" height="1022" />
+    </state>
+    <state width="1866" height="255" key="GridCell.Tab.0.right/0.58.1920.1022@0.58.1920.1022" timestamp="1606454686211" />
+    <state x="380" y="133" key="SettingsEditor" timestamp="1606545387520">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="304" y="112" key="SettingsEditor/0.30.1536.834/1920.0.1920.1080@0.30.1536.834" timestamp="1606543652362" />
+    <state x="2300" y="106" key="SettingsEditor/0.30.1536.834/1920.0.1920.1080@1920.0.1920.1080" timestamp="1606543828913" />
+    <state x="380" y="133" key="SettingsEditor/0.30.1920.1050/2400.0.2400.1350@0.30.1920.1050" timestamp="1606545387520" />
     <state x="2361" y="114" key="SettingsEditor/0.58.1536.806/1920.0.1920.1080@1920.0.1920.1080" timestamp="1606397382488" />
+    <state x="380" y="158" key="SettingsEditor/0.58.1920.1022@0.58.1920.1022" timestamp="1606454654985" />
+    <state x="2560" y="347" width="617" height="478" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1606543747095">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2560" y="347" width="617" height="478" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.30.1536.834/1920.0.1920.1080@1920.0.1920.1080" timestamp="1606543747095" />
   </component>
 </project>
